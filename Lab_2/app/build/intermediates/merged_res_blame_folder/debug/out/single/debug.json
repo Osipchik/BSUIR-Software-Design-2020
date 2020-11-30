@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_start.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_start.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_set.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_set.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\raw_censore_preview.ogg.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\raw\\censore_preview.ogg"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_loop.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_loop.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_prepare.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_prepare.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_timer_list_item.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\layout\\timer_list_item.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_workout.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\layout\\activity_workout.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\xml_preference.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\layout\\activity_create.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_work.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_work.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\raw_final_sound.ogg.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\raw\\final_sound.ogg"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_minus.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_state_pressed_ripple.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\state_pressed_ripple.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\DevProjects\\Android\\Lab_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rest.xml.flat",
+        "source": "D:\\DevProjects\\Android\\Lab_2\\app\\src\\main\\res\\drawable\\ic_rest.xml"
+    }
+]

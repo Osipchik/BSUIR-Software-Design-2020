@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lab2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:5:5-43:19
+12        android:name="com.example.lab2.App"
+12-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:6:9-28
+13        android:allowBackup="true"
+13-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:7:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.4.0-alpha01] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\1eb11fccc893dc8426de94f17cbf9199\core-1.4.0-alpha01\AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+22-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:12:9-65
+23        <service android:name="com.example.lab2.Service.TimerService" />
+23-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:14:9-56
+23-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:14:18-54
+24
+25        <activity android:name="com.example.lab2.WorkoutActivity" />
+25-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:16:9-53
+25-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:16:19-50
+26        <activity
+26-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:18:9-20:40
+27            android:name="com.example.lab2.CreateActivity"
+27-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:19:13-43
+28            android:noHistory="true" />
+28-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:20:13-37
+29        <activity
+29-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:22:9-24:40
+30            android:name="com.example.lab2.Settings"
+30-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:23:13-37
+31            android:label="Settings" />
+31-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:24:13-37
+32        <activity
+32-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:26:9-34:20
+33            android:name="com.example.lab2.SplashActivity"
+33-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:27:13-43
+34            android:noHistory="true" >
+34-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:28:13-37
+35            <intent-filter>
+35-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:29:13-33:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:30:17-69
+36-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:30:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:32:17-77
+38-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:32:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.example.lab2.MainActivity" >
+41-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:36:9-42:20
+41-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:36:19-47
+42            <intent-filter>
+42-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:29:13-33:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:30:17-69
+43-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:30:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:32:17-77
+45-->D:\DevProjects\Android\Lab_2\app\src\main\AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <service
+49-->[androidx.room:room-runtime:2.2.5] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+50            android:name="androidx.room.MultiInstanceInvalidationService"
+50-->[androidx.room:room-runtime:2.2.5] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+51            android:directBootAware="true"
+51-->[androidx.room:room-runtime:2.2.5] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+52            android:exported="false" />
+52-->[androidx.room:room-runtime:2.2.5] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+53
+54        <provider
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+55            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+56            android:authorities="com.example.lab2.lifecycle-process"
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+57            android:exported="false"
+57-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+58            android:multiprocess="true" />
+58-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\WyTra\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+59    </application>
+60
+61</manifest>
